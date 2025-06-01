@@ -1,4 +1,5 @@
-import { PostProps} from "@/interfaces";
+import { PostProps } from "@/interfaces";
+ 
 const PostCard: React.FC<PostProps> = ({ title, body, userId, id}) => {
   return(
     <div className="max-w-xl mx-auto my-6 p-6 bg-white rounded-lg shadow-lg hover:shadow duration-300">
