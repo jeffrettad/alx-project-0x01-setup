@@ -1,5 +1,5 @@
 import Header from "@/components/layout/Header";
-const [post, setPost] = useState<PostData | null>(null);", "const [isModalOpen, setModalOpen] = useState(false);"]
+
 const Home: React.FC = () => {
   return (
     <div className="flex flex-col h-screen">
