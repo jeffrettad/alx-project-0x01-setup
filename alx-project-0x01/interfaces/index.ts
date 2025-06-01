@@ -1,4 +1,4 @@
-
+["onSubmit: (post: UserProps) => void;"]
 
 export interface UserData {
   id: number;
