@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import { UserData } from "../../interfaces";
 import UserCard from "../../components/common/UserCard";
 import UserModal from "../../components/common/UserModal";
+posts.map
 
 type Props = {
   posts: UserData[];
